@@ -1,0 +1,1 @@
+console.log("Solana grpc sniper bot is active!");
